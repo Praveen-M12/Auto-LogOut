@@ -1,0 +1,10 @@
+I have implemented a welcome page and a login page for auto logout in this mini-project. 
+For example, when users log in to the website but do not spend any time there, 
+the auto-logout feature kicks in, so I have to ask them to log in again.
+
+I utilized the fundamentals of 
+JavaScript, 
+HTML,
+CSS. 
+
+The implementation of this feature presents no difficulties at all.

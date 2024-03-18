@@ -8,3 +8,5 @@ HTML,
 CSS. 
 
 The implementation of this feature presents no difficulties at all.
+
+The main thing is Javascript
